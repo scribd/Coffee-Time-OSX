@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "Coffee Time";
+NSHumanReadableCopyright = "Copyright ©2010 Scribd Inc. By Tim Morgan.";
